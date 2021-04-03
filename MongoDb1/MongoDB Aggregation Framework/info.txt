@@ -1,0 +1,10 @@
+mongo "mongodb://cluster0-shard-00-00-jxeqq.mongodb.net:27017,cluster0-shard-00-01-jxeqq.mongodb.net:27017,cluster0-shard-00-02-jxeqq.mongodb.net:27017/aggregations?replicaSet=Cluster0-shard-0" --authenticationDatabase admin --ssl -u m121 -p aggregations --norc
+
+
+
+chapter 1:
+
+mongo "mongodb://cluster0-shard-00-00-jxeqq.mongodb.net:27017,cluster0-shard-00-01-jxeqq.mongodb.net:27017,cluster0-shard-00-02-jxeqq.mongodb.net:27017/aggregations?replicaSet=Cluster0-shard-0" --authenticationDatabase admin --ssl -u m121 -p aggregations --norc
+
+
+https://github.com/aurasphere/mongodb-university-classes/blob/master/M121%20-%20The%20MongoDB%20Aggregation%20Framework/Chapter%202%20-%20Basic%20Aggregation%20-%20Utility%20Stages/Lab%202.2%20-%20Bringing%20it%20all%20together/Lab%202-2%20Solution.js
